@@ -1,0 +1,13 @@
+name: tv_controller
+description: A Flutter app to control smart TVs.
+version: 1.0.0
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  xml: ^6.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
